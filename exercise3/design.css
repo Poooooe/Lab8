@@ -1,0 +1,32 @@
+body {
+    background-image: url(retro.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+img {
+    padding-left: 200px;
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    padding-left: 280px;
+    color: white;
+}
+
+p {
+    padding-right: 1200px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    padding-left: 250px;
+    color: yellow;
+}
+
+iframe {
+    width: 720px;
+    height: 360px;
+}
